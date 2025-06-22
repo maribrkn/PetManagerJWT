@@ -4,8 +4,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/cadastropet/target/maven-archiver/pom.properties" />
-        <option value="$PROJECT_DIR$/cadastropet/cadastropet/pom.xml" />
+        <option value="$PROJECT_DIR$/CadastroPetsJWT-main/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/CadastroPetsJWT-main/cadastropet/pom.xml" />
       </list>
     </option>
   </component>

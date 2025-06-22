@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+
+    # Ou build (explícito) assim:
+    # image: cadastropet:1.0  # 👈 Nome e tag personalizados da imagem
+      # build:
+        # context: .            # Diretório onde está o Dockerfile
+        # dockerfile: Dockerfile
+
+    container_name: cadastropet
+    ports:
+      - "8080:8080"
